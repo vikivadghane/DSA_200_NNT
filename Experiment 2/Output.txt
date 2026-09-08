@@ -1,0 +1,44 @@
+
+1. Create Array
+2. Display Array
+3. Linear Search
+4. Binary Search
+5. Display Menu
+6. Exit
+Enter your choice: 1
+
+Enter the size of an Array : 5
+
+Enter 5 elements : 
+Enter element 1: 1
+Enter element 2: 2
+Enter element 3: 3
+Enter element 4: 4
+Enter element 5: 5
+
+Array created successfully
+Enter your choice: 3
+
+Enter the value to search: 5
+
+Value 5 found at position 5.
+Enter your choice: 5
+
+1. Create Array
+2. Display Array
+3. Linear Search
+4. Binary Search
+5. Display Menu
+6. Exit
+Enter your choice: 2
+
+ Created Array: 	1	2	3	4	5
+
+Enter your choice: 4
+
+ Created Array: 	1	2	3	4	5
+
+Enter the value to search: 4
+
+Element 4 found at position 4.
+Enter your choice: 

@@ -1,0 +1,89 @@
+
+		 Implementation of Stack
+
+ Main Menu
+ 1. Push 
+ 2. Pop 
+ 3. Display 
+ 4. Exit
+ Enter your choice: 1
+
+ Enter the item to be pushed: 1
+
+ Do you want to continue (Y/N)? y
+
+
+ Main Menu
+ 1. Push 
+ 2. Pop 
+ 3. Display 
+ 4. Exit
+ Enter your choice: 1
+
+ Enter the item to be pushed: 2
+
+ Do you want to continue (Y/N)? y1
+
+
+ Main Menu
+ 1. Push 
+ 2. Pop 
+ 3. Display 
+ 4. Exit
+ Enter your choice: 
+ Enter the item to be pushed: 3
+
+ Do you want to continue (Y/N)? y
+
+
+ Main Menu
+ 1. Push 
+ 2. Pop 
+ 3. Display 
+ 4. Exit
+ Enter your choice: 1
+
+ Enter the item to be pushed: 
+4
+
+ Do you want to continue (Y/N)? y
+
+
+ Main Menu
+ 1. Push 
+ 2. Pop 
+ 3. Display 
+ 4. Exit
+ Enter your choice: 1
+
+ Enter the item to be pushed: 5
+
+ Do you want to continue (Y/N)? y
+
+
+ Main Menu
+ 1. Push 
+ 2. Pop 
+ 3. Display 
+ 4. Exit
+ Enter your choice: 6 1
+
+ Enter the item to be pushed: 6
+
+ Do you want to continue (Y/N)? y
+
+
+ Main Menu
+ 1. Push 
+ 2. Pop 
+ 3. Display 
+ 4. Exit
+ Enter your choice: 3
+
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+ Do you want to continue (Y/N)? 

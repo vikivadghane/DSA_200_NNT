@@ -1,0 +1,56 @@
+       implementation of queue
+
+	Main menu
+1. Insert
+2. Delete
+3. Display
+Enter your choice: 1
+Enter the element to insert: 1
+
+Do you want to continue? (Y/N): y
+
+	Main menu
+1. Insert
+2. Delete
+3. Display
+Enter your choice: 1
+Enter the element to insert: 2
+
+Do you want to continue? (Y/N): y
+
+	Main menu
+1. Insert
+2. Delete
+3. Display
+Enter your choice: 1
+Enter the element to insert: 3
+
+Do you want to continue? (Y/N): y
+
+	Main menu
+1. Insert
+2. Delete
+3. Display
+Enter your choice: 1
+Enter the element to insert: 5
+
+Do you want to continue? (Y/N): y
+
+	Main menu
+1. Insert
+2. Delete
+3. Display
+Enter your choice: 2
+
+Deleted item is 1
+Do you want to continue? (Y/N): y
+
+	Main menu
+1. Insert
+2. Delete
+3. Display
+Enter your choice: 3
+
+The elements are:
+2 3 5 
+Do you want to continue? (Y/N): 
